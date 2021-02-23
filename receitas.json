@@ -1,0 +1,24 @@
+[
+	{
+		"nome": "Bolo de fubá",
+		"autor": "Eu mesmo",
+		"tempo de preparo": 600,
+		"porções": 4,
+		"url": "localhost",
+		"lista de ingredientes": [
+			{
+				"nome": "Ovos",
+				"unidade": "unidade",
+				"quantidade": 3,
+				"calorias": 234
+			},
+			{
+				"nome": "Açúcar",
+				"unidade": "xícaras de chá",
+				"quantidade": 2,
+				"calorias": 1500
+			}
+		],
+		"modo de preparo": "Junta tudo no liquidificador e depois joga tudo no forno."
+	}
+]
