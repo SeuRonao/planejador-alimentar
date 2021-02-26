@@ -8,13 +8,13 @@
 		"lista de ingredientes": [
 			{
 				"nome": "Ovos",
-				"unidade": "unidade",
+				"medida": "unidade",
 				"quantidade": 3,
 				"calorias": 234
 			},
 			{
 				"nome": "Açúcar",
-				"unidade": "xícaras de chá",
+				"medida": "xícaras de chá",
 				"quantidade": 2,
 				"calorias": 1500
 			}
