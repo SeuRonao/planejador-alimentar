@@ -10,3 +10,4 @@ Esse é um projeto de um planejador alimentar que terá as seguintes funcionalid
 - [ ] Fazer plano alimentar
 - [ ] Calcular custo do plano
 - [ ] Calcular informações nutricionais do plano
+- [ ] Testes automáticos para as receitas.
